@@ -9,4 +9,4 @@ Relaxing android game
 ## - [Download APK](https://github.com/necsii/colix/blob/c405e81984077241283c8500706ce5da9cf325c9/Additional%20Stuff/colix%20v0.19%20%5B+%5D(Added%20Colors).apk) -
 >Mix colors and get to know more about color names, color codes and color components
 >
-[Icon](https://github.com/necsii/colix/blob/bd82d0b99da0cd14ee9215dc60e336354172ced3/Additional%20Stuff/App-Icon-Gef%C3%BCllt-Rund-v.2.png)
+![Icon](https://github.com/necsii/colix/blob/bd82d0b99da0cd14ee9215dc60e336354172ced3/Additional%20Stuff/App-Icon-Gef%C3%BCllt-Rund-v.2.png)
